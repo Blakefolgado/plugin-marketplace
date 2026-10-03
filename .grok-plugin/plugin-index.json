@@ -410,8 +410,8 @@
       }
     },
     "magicscreenshots": {
-      "sha": "f5cf61f84cdcb558467978372bf055ef81517be9",
-      "version": "1.0.2",
+      "sha": "1b4d113492f401ebb6fce6f90d9a148f7b7d6ede",
+      "version": "1.0.3",
       "components": {
         "mcpServers": [
           {
